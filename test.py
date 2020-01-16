@@ -6,5 +6,4 @@ for i in range(2,5000):
     if N <= num:
         break
     k += 1
-    #1, 2, 3, 4, 5, 6
-    
+## 이게 아니었어
