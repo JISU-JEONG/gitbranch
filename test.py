@@ -7,4 +7,3 @@ for i in range(2,5000):
         break
     k += 1
 ## 이게 아니었어
-
