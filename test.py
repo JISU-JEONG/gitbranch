@@ -6,3 +6,5 @@ for i in range(2,5000):
     if N <= num:
         break
     k += 1
+## 이게 아니었어
+
